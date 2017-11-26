@@ -1,15 +1,15 @@
 {
-  "name": "editor-skeleton",
-  "author": "Team Vantage",
-  "description": "Replace this with a description of your editor.",
-  "version": "0.1.0",
+  "name": "Dratsu",
+  "author": "Team DBXV2",
+  "description": "Dragon Ball Xenoverse 2 Campaign Mods By Dratsu.",
+  "version": "1.07.01",
   "vantage": {
-    "game": "Game Name",
+    "game": "Dragon Ball Xenoverse 2",
     "scid": "00000000-0000-0000-0000-000000000000",
-    "thumbnailUrl": "https://i.imgur.com/hgdfCBd.png",
+    "thumbnailUrl": "https://scontent-sea1-1.cdninstagram.com/t51.2885-15/e35/13736129_151121225316470_1356561480_n.jpg?ig_cache_key=MTMwMTI1NjM0NjE5MjM1NzU0MQ%3D%3D.2",
     "name": "Campaign Editor",
-    "containerFilter": "savegame.svg",
-    "fileFilter": "save"
+    "containerFilter": "Xenoverse2savegame.svg",
+    "fileFilter": "Xenoverse2saveslot"
   },
   "repository": {
     "type": "git",
